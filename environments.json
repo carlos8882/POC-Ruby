@@ -1,0 +1,6 @@
+{
+    "dynamic360" : {
+        "baseurl":"https://camacho8.crm.dynamics.com",
+        "apiurl":"https://camacho8.api.crm.dynamics.com/"
+    }
+}
